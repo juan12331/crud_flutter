@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433572735591",
+    "project_id": "projeto-login-juan",
+    "storage_bucket": "projeto-login-juan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433572735591:android:332c8e98f5681b2caf42c2",
+        "android_client_info": {
+          "package_name": "com.example.crud_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAn2UUY4qukNlG5UvFmac2a8-pGZrwgrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
